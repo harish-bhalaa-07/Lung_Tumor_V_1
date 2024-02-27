@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template 
+from flask import Flask, request, render_template
 import numpy as np 
 import cv2
 import tensorflow as tf 
