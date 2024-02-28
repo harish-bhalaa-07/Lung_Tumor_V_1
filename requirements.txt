@@ -26,9 +26,7 @@ libclang==16.0.6
 Markdown==3.5.2
 MarkupSafe==2.1.5
 matplotlib==3.8.3
-ml-dtypes==0.2.0
 numpy==1.26.4
-oauthlib==3.2.2
 opencv-python==4.9.0.80
 opt-einsum==3.3.0
 packaging==23.2
@@ -52,3 +50,4 @@ typing_extensions==4.10.0
 urllib3==1.25.11
 Werkzeug==3.0.1
 wrapt==1.14.1
+gunicorn==20.0.4
